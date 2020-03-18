@@ -3,6 +3,8 @@ product recommendation algorithm powered by influencers
 
 Play around with the current app on [glide](https://textured-hair.glideapp.io/)
 
+Follow our instagram account to find influencers with textured hair. @texturedhair_
+
 ### Current Product - Amazon Textured Hair Product Search
 
 #### Select hair type (wavy, curly, coily, permed)
