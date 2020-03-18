@@ -24,7 +24,7 @@ Problems with this view
 - With the stay in place measures many people are going to be shopping online for hair products when they would customarily go into stores
 
 #### Specific product view
-![alt text](https://github.com/amblount/textured-hair-care/blob/master/images/textured-hair-amazon-view/specific-product-view.png"product feature list")
+![alt text](https://github.com/amblount/textured-hair-care/blob/master/images/textured-hair-amazon-view/specific-product-view.png "product feature list")
 
 Problems with this view
 
