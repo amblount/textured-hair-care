@@ -4,7 +4,7 @@ product recommendation algorithm powered by influencers
 ### Current Product - Amazon Textured Hair Product Search
 
 #### Select hair type (wavy, curly, coily, permed)
-![alt text](https://github.com/amblount/textured-hair-care/blob/master/select-hair-type.png "select hair type")
+![alt text](https://github.com/amblount/textured-hair-care/blob/master//images/textured-hair-amazon-view/select-hair-type.png "select hair type")
 
 Problems with this view
 
@@ -14,7 +14,7 @@ Problems with this view
 
 
 #### View all products for selected hair type
-![alt text](https://github.com/amblount/textured-hair-care/blob/master/all-products.png "coily hair type products")
+![alt text](https://github.com/amblount/textured-hair-care/blob/master/images/textured-hair-amazon-view/all-products.png "coily hair type products")
 
 Problems with this view
 
@@ -24,7 +24,7 @@ Problems with this view
 - With the stay in place measures many people are going to be shopping online for hair products when they would customarily go into stores
 
 #### Specific product view
-![alt text](https://github.com/amblount/textured-hair-care/blob/master/specific-product-view.png"product feature list")
+![alt text](https://github.com/amblount/textured-hair-care/blob/master/images/textured-hair-amazon-view/specific-product-view.png"product feature list")
 
 Problems with this view
 
